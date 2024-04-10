@@ -1,6 +1,6 @@
-# ARUL-OLI.A
-Cryptography and Network Security
-
+# Joshua Samuel S
+## Cryptography and Network Security
+## Programs
 # Caesar Cipher
 ```
 #include<stdio.h>
